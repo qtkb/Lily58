@@ -1,9 +1,9 @@
-(kicad_pcb (version 20171130) (host pcbnew "(6.0.0-rc1-dev-1672-g5c3f6f2ab)")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.4)-1")
 
   (general
     (thickness 1.6)
     (drawings 251)
-    (tracks 3126)
+    (tracks 3131)
     (zones 0)
     (modules 123)
     (nets 93)
@@ -3280,7 +3280,7 @@
     (pad "" np_thru_hole circle (at -5.22 4.2) (size 1 1) (drill 1) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Lily58-footprint:MX_PG1350_FLIP_HOLES_18mm placed (layer F.Cu) (tedit 5AF69AB8) (tstamp 5D2E3A92)
+  (module Lily58-footprint:MX_PG1350_FLIP_HOLES_18mm placed (layer F.Cu) (tedit 5AF69AB8) (tstamp 5E294FF4)
     (at 196.7 90.5)
     (descr MXALPS)
     (tags MXALPS)
@@ -7884,6 +7884,11 @@
   (segment (start 189.6745 97.155) (end 188.722 98.1075) (width 0.5) (layer F.Cu) (net 34))
   (segment (start 193.987476 93.345) (end 190.9445 93.345) (width 0.5) (layer F.Cu) (net 34))
   (segment (start 188.722 98.1075) (end 185.8645 98.1075) (width 0.5) (layer F.Cu) (net 34))
+  (segment (start 192.538998 96.875) (end 190.855 96.875) (width 0.5) (layer B.Cu) (net 34))
+  (segment (start 190.855 96.875) (end 190.5 96.52) (width 0.5) (layer B.Cu) (net 34))
+  (segment (start 190.5 96.52) (end 190.5 93.98) (width 0.5) (layer B.Cu) (net 34))
+  (segment (start 190.5 93.98) (end 190.5 93.98) (width 0.5) (layer B.Cu) (net 34) (tstamp 5E29501F))
+  (via (at 190.5 93.98) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 34))
   (segment (start 84.15 45.6) (end 90.1 45.6) (width 0.5) (layer F.Cu) (net 35))
   (segment (start 93.25763 48.75) (end 93.389884 48.617746) (width 0.5) (layer F.Cu) (net 35) (tstamp 5BB1DE77))
   (segment (start 92.18 48.75) (end 93.25763 48.75) (width 0.5) (layer F.Cu) (net 35) (tstamp 5BB1DEE0))
