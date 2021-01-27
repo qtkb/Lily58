@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KiCad-SSD1306-0.91-OLED-4pin-128x32)(type KiCad)(uri "D:/users/main/Dokuments/KiCad Designs/kicad custom library/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri "D:/users/main/Dokuments/KiCad Designs/external git/keyswitches.pretty")(options "")(descr ""))
+)

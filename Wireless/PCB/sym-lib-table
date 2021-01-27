@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Lily58_HS_RGB-cache)(type Legacy)(uri ${KIPRJMOD}/Lily58_HS_RGB-cache.lib)(options "")(descr ""))
+  (lib (name Lily58-cache)(type Legacy)(uri ${KIPRJMOD}/Lily58-cache.lib)(options "")(descr ""))
+  (lib (name Lily58-rescue)(type Legacy)(uri ${KIPRJMOD}/Lily58-rescue.lib)(options "")(descr ""))
+)
